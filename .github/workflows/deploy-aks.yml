@@ -10,7 +10,7 @@ permissions:
 env:
    RESOURCE_GROUP: resourceGroup
    AKS_CLUSTER_NAME: emmaAKSCluster
-   LOCATION: australiaeast
+   LOCATION: southeastasia
 
 jobs:
   build:
